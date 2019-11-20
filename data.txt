@@ -1,0 +1,3 @@
+Name: Diego Olvera Juarez
+Age: 25
+Favorite Color: RED
